@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-	var fetchInterval = 1000;
+	var fetchInterval = 10000;
 
 	status();
 	setInterval(status, fetchInterval);

@@ -1,0 +1,4 @@
+tmp/
+auth.json
+template/webhuset.html
+static/webhuset.css
